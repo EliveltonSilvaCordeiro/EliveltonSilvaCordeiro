@@ -18,5 +18,5 @@
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EliveltonSilvaCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSilvaCordeiro&layout=compact&langs_count=7&bg_color=DEG,#000000,#000011">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSilvaCordeiro&layout=compact&langs_count=7&bg_color=DEG,black,gray">
 </div>
