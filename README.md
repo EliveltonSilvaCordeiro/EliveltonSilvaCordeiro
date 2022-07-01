@@ -1,7 +1,9 @@
 <h1 align="left">Greetings, my name is Elivelton Silva Cordeiro</h1>
 
-- 🔭 I’m currently working on Beginners projects
-- 🌱 I’m currently learning Python and SQL
+- 🔭 I am currently working on Beginners projects
+- 💬 Ask me about Python
+- 🌱 I am currently learning HTML and CSS
+- ⭕ My main goal is to become a Data Scientist
 
 ## 💡&nbsp;Knowledges
   
