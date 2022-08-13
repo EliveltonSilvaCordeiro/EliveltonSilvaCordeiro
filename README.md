@@ -1,6 +1,6 @@
 <h1 align="left">Greetings, my name is Elivelton Silva Cordeiro</h1>
 
-- 🔭 I am currently working on Data Science
+- 🔭 I am currently working on Data Science projects
 - 💬 Ask me about Python
 - 🌱 I am currently learning more about SQL
 - ⭕ My main goal is to become a Data Scientist
