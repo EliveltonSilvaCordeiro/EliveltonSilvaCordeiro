@@ -5,6 +5,6 @@
 
 ## 📈 &nbsp;GitHub Analytics
 
-<div align="center">
+<div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSilvaCordeiro&layout=compact&langs_count=9&theme=github_dark">
 </div>
